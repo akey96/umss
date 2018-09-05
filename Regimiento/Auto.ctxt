@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.target=Auto
-comment1.params=nombre\ descripcion\ motor\ nroRuedas
-comment1.target=Auto(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
-numComments=2
